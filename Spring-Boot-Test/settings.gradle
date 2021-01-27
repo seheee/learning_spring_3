@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-Boot-Test'
+include 'demo-domain'
+include 'demo-web'
+
